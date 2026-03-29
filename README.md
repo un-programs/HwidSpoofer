@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/un-programs/HwidSpoofer/releases/latest/download/HwidSpoofer.exe">
+    <img src="https://img.shields.io/badge/Download-HwidSpoofer.exe-4A6CF7?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/un-programs/HwidSpoofer?color=4A6CF7&label=Version" alt="Version"/>
+  <img src="https://img.shields.io/github/downloads/un-programs/HwidSpoofer/total?color=green&label=Downloads" alt="Downloads"/>
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet" alt=".NET 8"/>
   <img src="https://img.shields.io/badge/Platform-Windows%20x64-0078D4?logo=windows" alt="Windows x64"/>
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"/>
@@ -46,7 +54,7 @@
 
 ## Usage
 
-1. Download `HwidSpoofer.exe` from the [Releases](../../releases) page
+1. **[Download HwidSpoofer.exe](https://github.com/un-programs/HwidSpoofer/releases/latest/download/HwidSpoofer.exe)**
 2. Right-click → **Run as administrator**
 3. Go to the **Serials** tab to view your current hardware identifiers
 4. Close all game launchers (Steam, Epic, Riot, etc.)
@@ -67,7 +75,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/HwidSpoofer.git
+git clone https://github.com/un-programs/HwidSpoofer.git
 cd HwidSpoofer
 
 # Build in Debug mode (demo — no real changes applied)
